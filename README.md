@@ -7,5 +7,6 @@ Template: https://github.com/creativetimofficial/vue-black-dashboard
 
 # Installation
 npm install
+
 npm run dev
 
